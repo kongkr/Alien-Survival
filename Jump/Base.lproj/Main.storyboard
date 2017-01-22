@@ -299,7 +299,7 @@ Your masters have send you on this mission to gain information about the culture
  They’ve warned you that the atmosphere is deadly and you’ll need to get back to your ship alive and well. 
 
 Thankfully, the scientists of our home planet found a way to survive in this harsh atmosphere. WE CAN SURVIVE ON BRAINS! 
- And how convenient, when we eat a human’s brain we also collect all the intel that this person collected during his life. But be careful, not all brains are as healthy as they seem!
+ And how convenient, when we eat a human’s brain we also collect all the intel that this person has collected during his life. But be careful, not all brains are as healthy as they seem!
 
 Their might also be other ways to survive, but brains are your best shot at survival. 
 Be careful &amp; try to collect as many intel as you can. 
@@ -397,7 +397,7 @@ Good luck.</mutableString>
                                 <rect key="frame" x="0.0" y="28" width="414" height="142"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="MMk-VJ-MA6" id="a81-6f-CZv">
-                                    <rect key="frame" x="0.0" y="0.0" width="414" height="141"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="414" height="141.5"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <imageView userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="9Pj-uN-P0R">
@@ -431,7 +431,7 @@ Good luck.</mutableString>
                                 <rect key="frame" x="0.0" y="170" width="414" height="140"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="8i3-4n-h8c" id="OR6-eR-g9F">
-                                    <rect key="frame" x="0.0" y="0.0" width="414" height="139"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="414" height="139.5"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="O2h-ws-yVl">
@@ -465,7 +465,7 @@ Good luck.</mutableString>
                                 <rect key="frame" x="0.0" y="310" width="414" height="143"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="c0v-Rg-kEZ" id="UTa-CV-wiz">
-                                    <rect key="frame" x="0.0" y="0.0" width="414" height="142"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="414" height="142.5"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <imageView userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="3Ty-lv-oEw">
