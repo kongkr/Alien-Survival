@@ -10,7 +10,7 @@ They’ve warned you that the atmosphere is deadly and you’ll need to get back
 Thankfully, the scientists of our home planet found a way to survive in this harsh atmosphere. WE CAN SURVIVE ON BRAINS!
 
 And how convenient...
-When we eat a human’s brain we also collect all the intel that this person collected during his life. 
+When we eat a human’s brain we also collect all the intel that this person has collected during his life. 
 But be careful, not all brains are as healthy as they seem!
 
 Their might also be other ways to survive, but brains are your best shot at survival.
