@@ -2,8 +2,8 @@
   "images" : [
     {
       "idiom" : "universal",
-      "scale" : "1x",
-      "filename" : "Spaceship.png"
+      "filename" : "Brain_of_Cthulhu.png",
+      "scale" : "1x"
     },
     {
       "idiom" : "universal",
